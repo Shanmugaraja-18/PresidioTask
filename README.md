@@ -3,23 +3,32 @@ Employee Management Console is a web application that allows you to efficiently 
 
 ## Installation
 
-#1. Clone the repository:
+1. Clone the repository:
 git clone https://github.com/Shanmugaraja-18/PresidioTask.git
-#2.Navigate to the project directory:
+
+
+2.Navigate to the project directory:
 cd employee-management-console
-#3.Navigate to the backend and front end folders
+
+3.Navigate to the backend and front end folders
+
 4.Install dependencies:
 npm install
+
 5.Configuration
 Create a config.env file in the root of your project and set the following environment variables:
 MONGODB_URI
 JWT_SECRET
+
+
 6.To run the application, use the following command:
 npm start
+
 7.Default Login Credentials
 Use the following login credentials for a better understanding of the application:
 Email: shanmugaraja01official@gmail.com
 Password: 12345678
+
 8.FEATURES
 Features
 Employee Data Management: Easily manage and organize employee information with a user-friendly console.
