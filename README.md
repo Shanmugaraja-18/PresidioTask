@@ -4,7 +4,7 @@ Employee Management Console is a web application that allows you to efficiently 
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/employee-management-console.git
+git clone https://github.com/Shanmugaraja-18/PresidioTask.git
 2.Navigate to the project directory:
 cd employee-management-console
 3.Navigate to the backend and front end folders
