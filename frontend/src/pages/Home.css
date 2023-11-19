@@ -1,0 +1,42 @@
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+.full-width-container {
+    width: 100%;
+    max-width: 100vw;
+    overflow-x: hidden;
+  }
+  
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}
+
+body {
+    padding-top: 56px; 
+  }
+  
+  .jumbotron {
+    background-color: #343a40;
+    color: #fff;
+  }
+  
+  .card {
+    transition: transform 0.2s;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  footer {
+    color: #fff;
+  }
+  
